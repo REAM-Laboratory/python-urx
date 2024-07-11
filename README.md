@@ -10,6 +10,8 @@ urx was primarily developed by [Olivier Roulet-Dubonnet](https://github.com/orou
 
 # Changelog
 
+# Fully supported UR e-series 
+
  * 2018/02/02: Support for SW 3.5.x
    This version supports the UR10 software version 3.5.x as of January 2018
    Fixes issues with speed(x) commands 
